@@ -7,7 +7,7 @@
 # <https://github.com/KFERMercer/OpenWrt-CI>
 # 
 
-name: OpenWrt-CI-2020年5月21日
+name: OpenWrt-CI-2020年5月21日-01
 
 on:
   push:
